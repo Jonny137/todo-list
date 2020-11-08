@@ -2,7 +2,6 @@
 
 Simple TODO list
 
-### Technology stack:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"
      alt="Markdown Node icon"
      width="55px"

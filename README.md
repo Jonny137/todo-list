@@ -1,6 +1,8 @@
 ## TODO list
 
-Simple TODO list
+Simple TODO list.
+
+[PERN Stack course](https://youtu.be/ldYcgPKEZC8) from freeCodeCamp.org
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"
      alt="Markdown Node icon"
